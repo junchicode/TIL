@@ -14,3 +14,5 @@ elif a == 3:
         print("B")
     elif b == 2:
         print("A")
+
+#맥에서 들어가버리기~
