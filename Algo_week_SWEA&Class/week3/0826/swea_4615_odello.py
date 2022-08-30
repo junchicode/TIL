@@ -1,5 +1,4 @@
 def delta(bd1, bd2, color, N):
-    global board
     
     board[bd1][bd2] = color
     for di, dj in [[-1,-1],[-1,0],[-1,1],[0,1],[1,1],[1,0],[1,-1],[0,-1]]:
