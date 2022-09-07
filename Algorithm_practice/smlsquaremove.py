@@ -1,6 +1,3 @@
-import sqlalchemy
-
-
 l = [list(input().split()) for _ in range(3)]
 n = 2
 '''col = ""'''
